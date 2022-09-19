@@ -1,21 +1,21 @@
 {
   "files": {
     "main.css": "/static/css/main.0cc5c446.css",
-    "main.js": "/static/js/main.063e3736.js",
+    "main.js": "/static/js/main.a2499e0e.js",
     "static/js/787.1849c139.chunk.js": "/static/js/787.1849c139.chunk.js",
     "static/media/sephora.png": "/static/media/sephora.5bd0534ca657061f419c.png",
     "static/media/sugarcosmetics.png": "/static/media/sugarcosmetics.004bf62283725705f17d.png",
     "static/media/me.jpg": "/static/media/me.7aa679b5a8b6f3682482.jpg",
     "static/media/me-about-img.jpg": "/static/media/me-about-img.f4f07aad48fe275f8448.jpg",
-    "static/media/cv.pdf": "/static/media/cv.1747a6a6cc157166a0bd.pdf",
+    "static/media/Mitresh_Resume.pdf": "/static/media/Mitresh_Resume.8034068a59c881b4ed70.pdf",
     "static/media/bg4_texture.png": "/static/media/bg4_texture.4b81cfa32bbf4dd75a0a.png",
     "index.html": "/index.html",
     "main.0cc5c446.css.map": "/static/css/main.0cc5c446.css.map",
-    "main.063e3736.js.map": "/static/js/main.063e3736.js.map",
+    "main.a2499e0e.js.map": "/static/js/main.a2499e0e.js.map",
     "787.1849c139.chunk.js.map": "/static/js/787.1849c139.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.0cc5c446.css",
-    "static/js/main.063e3736.js"
+    "static/js/main.a2499e0e.js"
   ]
 }
