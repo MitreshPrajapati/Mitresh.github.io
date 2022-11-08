@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/static/css/main.6d1a0fd9.css",
-    "main.js": "/static/js/main.48307753.js",
+    "main.js": "/static/js/main.cd75bc0d.js",
     "static/js/787.1849c139.chunk.js": "/static/js/787.1849c139.chunk.js",
     "static/media/sephora.png": "/static/media/sephora.5bd0534ca657061f419c.png",
     "static/media/sugarcosmetics.png": "/static/media/sugarcosmetics.004bf62283725705f17d.png",
     "static/media/HTML5_badge.png": "/static/media/HTML5_badge.dbc3baa7e405494219e6.png",
     "static/media/me_about1.jpg": "/static/media/me_about1.cb7e613d666dc8889fe0.jpg",
-    "static/media/Mitresh_Resume.pdf": "/static/media/Mitresh_Resume.8034068a59c881b4ed70.pdf",
+    "static/media/Mitresh_Resume.pdf": "/static/media/Mitresh_Resume.3660cb25ac30a79619e7.pdf",
     "static/media/netlify-logo-transparent.png": "/static/media/netlify-logo-transparent.603ef81c872f9df8c343.png",
     "static/media/indeed.png": "/static/media/indeed.606fe4a77136301b2967.png",
     "static/media/react_logo.png": "/static/media/react_logo.22d1f2096ed82cab7a8a.png",
@@ -21,11 +21,11 @@
     "static/media/js.png": "/static/media/js.3abb3de3f1e1d537ad2e.png",
     "index.html": "/index.html",
     "main.6d1a0fd9.css.map": "/static/css/main.6d1a0fd9.css.map",
-    "main.48307753.js.map": "/static/js/main.48307753.js.map",
+    "main.cd75bc0d.js.map": "/static/js/main.cd75bc0d.js.map",
     "787.1849c139.chunk.js.map": "/static/js/787.1849c139.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.6d1a0fd9.css",
-    "static/js/main.48307753.js"
+    "static/js/main.cd75bc0d.js"
   ]
 }
